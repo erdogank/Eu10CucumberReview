@@ -6,3 +6,5 @@ Feature: Testing print functions
     Given call the print method
     When provide some data as argument
     Then we should see argument in console
+
+    #note
